@@ -1,6 +1,7 @@
 Autor: Isabella Tiemi Sasaki Nakadomari
 
 Primeira lista de exercicios de algoritmo:
+
 	1.Coletar o valor do lado de um quadrado, calcular sua área e apresentar o resultado.
 	2.Receba o salário de um funcionário e mostre o novo salário com reajuste de 15%.
 	3.Receba a base e a altura de um triângulo. Calcule e mostre a sua área.
